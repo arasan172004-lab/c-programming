@@ -1,2 +1,3 @@
 # c-programming
-adding two numbers
+adding two numbers,
+subtrction
